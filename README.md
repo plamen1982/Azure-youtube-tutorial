@@ -218,8 +218,5 @@
     - Jenkins
     - Tarraform
     - Azure DevOps Projects
-  - Build your skills with Microsoft Learn
-    - Tour Azure services and features
-    - Principles of cloud computing
-    - Control Azure services with the CLI
-    - Autmate Azure Tasks using scripts with PowerShell
+  - Build your skills with Microsoft Learn - Tour Azure services and features - Principles of cloud computing - Control Azure services with the CLI - Autmate Azure Tasks using scripts with PowerShell
+    [video 05:30](https://www.youtube.com/watch?v=pQwtS0lj_9I&list=PLWPirh4EWFpF85G87sm-r-za5ku4cI-u-&index=12)
